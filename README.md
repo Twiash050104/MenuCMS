@@ -23,7 +23,7 @@ A responsive digital restaurant menu built with **Flutter Web**, allowing custom
 
 ### 🏠 Home Screen
 
-![Home Screen](screenshots/home-screen.png)
+![Home Screen](screenshots/homescreen.png)
 
 ### 🥗 Veg / Non-Veg Filter
 
@@ -35,11 +35,11 @@ A responsive digital restaurant menu built with **Flutter Web**, allowing custom
 
 ### 📱 Responsive Layout
 
-![Responsive Layout](screenshots/tablet-layout.png)
+![Responsive Layout](screenshots/desktop-mode.png)
 
 ### ❌ No Results State
 
-![No Results](screenshots/no-results.png)
+![No Results](screenshots/nosearch-result.png)
 
 ## 🚀 Running the Project
 
